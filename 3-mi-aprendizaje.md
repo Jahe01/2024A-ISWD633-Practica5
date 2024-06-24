@@ -1,3 +1,2 @@
 # COMPLETAR  
-Comparando sus conocimientos antes de hacer la práctica con sus conocimientos después de hacer la tarea, explicar los principales aprendizajes logrados para beneficio de su formación profesional.  
-Si solucionó un problema presentado al realizar la práctica también se debe documentar.
+Comparando mis conocimientos antes de hacer la práctica con los conocimientos después de hacer la tarea, ahora se como utilizar Docker Compose. Saludos :)
